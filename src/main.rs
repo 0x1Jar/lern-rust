@@ -1,3 +1,4 @@
+//import module
 mod hello_rust;
 
 fn main() {
@@ -10,7 +11,7 @@ fn main() {
     let run: &'static str = hello_rust::hello_rust();
 
     println!("{:?}",run);
-    
+
 }
 
 
