@@ -1,6 +1,6 @@
-## **Lern Rust Methodway**
+## **Learn Rust Methodway**
 
-**Buils New First Project using cargo**
+**Build New First Project using cargo**
 
 ```
 cargo new yourProjek
